@@ -1,4 +1,4 @@
 Main branch first line
 second_branch
 main branch 3rd line
-main branch 4th line
+diff_branch 4th line
