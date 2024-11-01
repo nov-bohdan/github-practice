@@ -2,3 +2,4 @@ Main branch first line
 second_branch
 main branch 3rd line
 diff_branch 4th line
+diff_branch 5th line
